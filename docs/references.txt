@@ -1,0 +1,15 @@
+
+References for Rails development
+
+http://guides.rubyonrails.org/layouts_and_rendering.html
+http://stackoverflow.com/questions/11466988/ruby-convert-string-to-integer-or-float
+
+Rails add_path
+
+http://localhost:3000/1/2
+
+Capistrano
+
+http://www.aaginskiy.com/technology/2011/02/deploying-rails-3-apps-with-capistrano/
+
+
