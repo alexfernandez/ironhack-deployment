@@ -1,6 +1,8 @@
 # IronHack deployment
 
-Workshop de despliegue continuo
+Workshop de despliegue continuo.
+
+Incluye la aplicación Rails `add_path`.
 
 ## Guión del workshop.
 
