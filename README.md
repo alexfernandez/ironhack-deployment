@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/alexfernandez/ironhack-deployment.png)](http://travis-ci.org/alexfernandez/ironhack-deployment)
+
 # IronHack deployment
 
 Workshop de despliegue continuo.
